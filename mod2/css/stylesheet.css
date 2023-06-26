@@ -1,0 +1,58 @@
+#header-section1 {
+  position: relative;
+}
+
+#floatright {
+  position: absolute;
+  top: 1px;
+  right:0%;
+  width: 33%;
+  border: black solid;
+  box-sizing:border-box;
+  background-color:grey;
+}
+
+#floatcenter {
+  position: absolute;
+  top: 1px;
+  right: 33.3%;
+  width: 33%;
+  border: black solid;
+  box-sizing:border-box;
+  background-color:grey;
+}
+
+#floatleft {
+  position: absolute;
+  top: 1px;
+  width: 33%;
+  left:0%;
+  border: black solid;
+  box-sizing:border-box;
+  background-color:grey;
+}
+
+h3 {
+	position:relative;
+	border:black solid;
+	right:0%;
+	text-align:right;
+	display:inline;
+}
+
+#Sushi {
+	background-color:yellow;
+}
+
+#Beef {
+	background-color:red;
+	color:white;
+}
+
+#Chicken {
+	right:0%;
+	background-color:pink;
+}
+
+
+
